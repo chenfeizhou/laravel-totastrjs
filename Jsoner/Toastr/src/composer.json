@@ -1,0 +1,16 @@
+{
+    "name": "ryan/toastr-for-laravel",
+    "description": "toastr.js for laravel7.*",
+    "authors": [
+        {
+            "name": "Jsoner",
+            "email": "jsoner.chen@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Jsoner\\Toastr\\": "src/"
+        }
+    }
+}
